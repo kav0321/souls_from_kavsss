@@ -1,0 +1,14 @@
+{
+  "item.soul.soul_ingot":"Soul Ingot",
+  "item.soul.golden_pine":"Golden Pine",
+
+  "key.category.soul.soul": "Soul Keys",
+  "key.soul.gaining_soul": "gaining souls",
+"soul.require": "Souls require:",
+
+  "text.my_mod.time": "Time: %d",
+  "gui.examplemod.examplebutton": "Hello",
+  "item.soul.raccoon_spawn_egg": "Raccoon Spawn Egg",
+  "itemGroup.soul.soul": "The Lost Souls Items"
+
+}

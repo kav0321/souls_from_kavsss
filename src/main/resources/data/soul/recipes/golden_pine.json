@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "p  ",
+    " GL",
+    " LL"
+  ],
+  "key": {
+    "L": {
+      "item": "minecraft:leather"
+    },
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "p": {
+      "item": "minecraft:gunpowder"
+    }
+  },
+  "result": {
+    "item": "soul:golden_pine"
+  }
+}
